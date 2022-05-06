@@ -40,6 +40,3 @@ export const PatientsSearch: FunctionComponent<props> = ({
   );
 };
 
-// type psearchboxprops = {
-//   onQueryChange: (query: PatientSearchQuery) => void;
-// };
